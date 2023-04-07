@@ -15,13 +15,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./desktop-view.png)
-![](./mobile-view.png)
+![](./screens/desktop-view.png)
+![](./screens/mobile-view.png)
 
 ### Links
 
-- Solution URL: https://github.com/Loniewski02/QR-code-component
-- Live Site URL: https://loniewski02.github.io/QR-code-component/
+- Solution URL: [Code](https://github.com/Loniewski02/FM-QR-code-v2)
+- Live Site URL: [Live](https://loniewski02.github.io/FM-QR-code-v2/)
 
 ## My process
 
@@ -35,4 +35,3 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Frontend Mentor - [@Loniewski02](https://www.frontendmentor.io/profile/Loniewski02)
-
