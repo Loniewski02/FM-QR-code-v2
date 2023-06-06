@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Code](https://github.com/Loniewski02/FM-QR-code-v2)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/html-sass-qr-code-component-j8eB5ef2jj)
 - Live Site URL: [Live](https://loniewski02.github.io/FM-QR-code-v2/)
 
 ## My process
